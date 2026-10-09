@@ -1,0 +1,33 @@
+@media (max-width : 800px) {
+
+    .imgdiv1 img {
+        position: relative;
+        width: 100%;
+    }
+    .imgdiv1 {
+        width: 100%;
+    }
+    .extrabtn {
+        margin-top: -350px;
+    }
+    .header {
+        width: 100%;
+        margin-right: 12px;
+    }
+    .header h3{
+        font-size: 30px;
+    }
+    .container-1{
+        gap: 10px;
+        width: 600px;
+    }
+    .para1 {
+        width: 100%;
+    }
+    .container-2 {
+        margin-right: 12px;
+    }
+    .okp {
+        font-size: 20px;
+    }
+}
